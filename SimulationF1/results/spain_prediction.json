@@ -1,0 +1,17 @@
+{
+ "track": "Spain",
+ "round": 1,
+ "lap_distance_km": 5.1,
+ "n_laps": 60,
+ "method": "gemeinsames Modell (joint_model.py)",
+ "setup": {
+  "Rear Wing": 500,
+  "Engine": 92,
+  "Front Wing": 500,
+  "Brake Balance": 99,
+  "Differential": 233,
+  "Suspension": 77
+ },
+ "lap_time_reference_s": 95.7,
+ "lap_time_reference_boot_sd_s": 0.06
+}
